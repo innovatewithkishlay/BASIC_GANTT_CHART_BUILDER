@@ -1,0 +1,4 @@
+tk
+matplotlib
+numpy
+py .\process_monitor_gui.py
